@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/raushan165/Leetcode/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/raushan165/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raushan165/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/raushan165/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raushan165/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raushan165/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/raushan165/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raushan165/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raushan165/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/raushan165/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raushan165/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/raushan165/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
