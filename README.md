@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raushan165/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/raushan165/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raushan165/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/raushan165/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
