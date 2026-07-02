@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raushan165/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/raushan165/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/raushan165/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/raushan165/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1306-jump-game-iii](https://github.com/raushan165/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/raushan165/Leetcode/tree/master/1345-jump-game-iv) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/raushan165/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/raushan165/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raushan165/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/raushan165/Leetcode/tree/master/3161-block-placement-queries) |
@@ -115,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/raushan165/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/raushan165/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raushan165/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/raushan165/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/raushan165/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/raushan165/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
