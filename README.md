@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raushan165/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raushan165/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raushan165/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raushan165/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/raushan165/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raushan165/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/raushan165/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raushan165/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/raushan165/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raushan165/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/raushan165/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raushan165/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
