@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/raushan165/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/raushan165/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/raushan165/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
