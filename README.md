@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raushan165/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raushan165/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
