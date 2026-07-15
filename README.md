@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/raushan165/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raushan165/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/raushan165/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/raushan165/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raushan165/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/raushan165/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/raushan165/Leetcode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/raushan165/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raushan165/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
