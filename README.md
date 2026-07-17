@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/raushan165/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/raushan165/Leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/raushan165/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/raushan165/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/raushan165/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/raushan165/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/raushan165/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/raushan165/Leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/raushan165/Leetcode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
