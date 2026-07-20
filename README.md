@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1306-jump-game-iii](https://github.com/raushan165/Leetcode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/raushan165/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/raushan165/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1306-jump-game-iii](https://github.com/raushan165/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/raushan165/Leetcode/tree/master/1345-jump-game-iv) |
 | [1609-even-odd-tree](https://github.com/raushan165/Leetcode/tree/master/1609-even-odd-tree) |
@@ -246,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1609-even-odd-tree](https://github.com/raushan165/Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/raushan165/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/raushan165/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1609-even-odd-tree](https://github.com/raushan165/Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/raushan165/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
