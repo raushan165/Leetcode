@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/raushan165/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/raushan165/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/raushan165/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raushan165/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raushan165/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raushan165/Leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/raushan165/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raushan165/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raushan165/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raushan165/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/raushan165/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/raushan165/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/raushan165/Leetcode/tree/master/0242-valid-anagram) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raushan165/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1609-even-odd-tree](https://github.com/raushan165/Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/raushan165/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raushan165/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/raushan165/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1609-even-odd-tree](https://github.com/raushan165/Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/raushan165/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raushan165/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raushan165/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raushan165/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raushan165/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
