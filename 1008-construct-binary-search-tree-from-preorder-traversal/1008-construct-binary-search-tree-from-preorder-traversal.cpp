@@ -12,6 +12,7 @@
 class Solution {
 public:
     int preIdx = 0;
+
     TreeNode* buildTree(vector<int>& preorder, int minval, int maxval) {
         if (preIdx == preorder.size()) return NULL;
         int rootVal = preorder[preIdx];
