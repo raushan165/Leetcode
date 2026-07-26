@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/raushan165/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/raushan165/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/raushan165/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raushan165/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/raushan165/Leetcode/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/raushan165/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/raushan165/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/raushan165/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/raushan165/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raushan165/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/raushan165/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/raushan165/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
