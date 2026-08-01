@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raushan165/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/raushan165/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/raushan165/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/raushan165/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/raushan165/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushan165/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raushan165/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raushan165/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/raushan165/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/raushan165/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/raushan165/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/raushan165/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/raushan165/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/raushan165/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raushan165/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
