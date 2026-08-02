@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raushan165/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/raushan165/Leetcode/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raushan165/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/raushan165/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raushan165/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/raushan165/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raushan165/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/raushan165/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/raushan165/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raushan165/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -534,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
