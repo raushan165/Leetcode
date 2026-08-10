@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/raushan165/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raushan165/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raushan165/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raushan165/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raushan165/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -557,12 +559,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raushan165/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
