@@ -1,12 +1,13 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int num =0, freq=0;
         for(int i=0;i<nums.size();i++){
-            if(freq == 0) num = nums[i];
-            if(num == nums[i]) freq++;
-            else freq--;
+            int crfq =0;
+            for(int j=0;j<nums.size();j++){
+                if(nums[i] == nums[j]) crfq += 1;
+                if (crfq > nums.size()/2) return nums[i];
+            }
         }
-        return num;
+        return -1;
     }
 };
