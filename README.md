@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raushan165/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/raushan165/Leetcode/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/raushan165/Leetcode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/raushan165/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raushan165/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raushan165/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raushan165/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raushan165/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raushan165/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raushan165/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/raushan165/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raushan165/Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/raushan165/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raushan165/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/raushan165/Leetcode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/raushan165/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raushan165/Leetcode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raushan165/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raushan165/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/raushan165/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raushan165/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/raushan165/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raushan165/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
