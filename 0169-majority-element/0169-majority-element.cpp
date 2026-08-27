@@ -1,16 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int fq=0,num = 0;
-        for(int i=0;i<nums.size();i++){
-            if(fq == 0) num = nums[i];
-            if(nums[i] == num){
+        int fq=1,maxel=nums[0];
+        for(int i=1;i<nums.size();i++){
+            if(maxel == nums[i]){
                 fq++;
             }
             else{
                 fq--;
             }
+            if(fq<0){
+                maxel = nums[i];
+                fq=0;
+            }
         }
-        return num;
+        return maxel;
     }
 };
