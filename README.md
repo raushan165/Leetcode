@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/raushan165/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raushan165/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/raushan165/Leetcode/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/raushan165/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raushan165/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raushan165/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raushan165/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/raushan165/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raushan165/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/raushan165/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raushan165/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raushan165/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raushan165/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
